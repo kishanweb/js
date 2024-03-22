@@ -1,2 +1,2 @@
 # js
-this is javascript all importants topics
+ javascript all importants topics are here
